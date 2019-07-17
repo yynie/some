@@ -1,0 +1,1 @@
+cat stub.sh AdbKeyBoard.jar > AdbKeyBoard && chmod +x AdbKeyBoard
